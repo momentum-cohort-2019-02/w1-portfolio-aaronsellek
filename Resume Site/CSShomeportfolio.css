@@ -1,0 +1,58 @@
+.Links {
+    list-style: none;
+    padding-right: 30px;
+    padding: 5px;
+    display: flex;
+    margin-left: 80%;
+    justify-content: space-between;
+    max-width: 20%;
+    
+}
+.Me {
+    align-content: initial;
+}
+
+.Store{
+    margin-left: 45%; 
+  margin-right: 19%;
+  font-size: 27px;
+}
+.Paragraph {
+    margin-left: 45%; 
+  margin-right: 19%;
+  font-size: 40px;
+    
+}
+.Store, .Dog{
+    list-style: none;
+
+}
+.Dog {
+    margin-left: 45%; 
+  margin-right: 19%;
+  font-size: 27px;
+}
+.ProjectLink {
+    margin-right: 60%;
+    list-style: none;
+}
+h1 {
+    text-align: center;
+}
+.Top {
+    text-align: center;
+    list-style: none;
+    margin-right: 5%;
+}
+.Summary {
+    list-style: none;
+    align-content: initial;
+}
+.Education {
+    list-style: none;
+    align-content: initial;
+}
+.Experience {
+    list-style: none;
+    align-content: initial;
+}
